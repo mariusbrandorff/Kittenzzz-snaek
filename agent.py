@@ -16,6 +16,8 @@ def collision(v1: Vector, segments: List[Vector], is_move_safe: Dict):
         if (segment.distance(v1) == 1):
             is_move_safe[vector_direction(v1, segment)] = False
 
+    return is_move_safe
+
 def choose_move(game_state: GameState) -> str:
 
     is_move_safe = {"up": True, "down": True, "left": True, "right": True}
@@ -32,26 +34,29 @@ def choose_move(game_state: GameState) -> str:
     if my_head.y == board.height-1:
         is_move_safe["up"] = False
 
-    elif my_head.x == board.width-1:
+    if my_head.x == board.width-1:
         is_move_safe["right"] = False
 
-    elif my_head.y == 0:
+    if my_head.y == 0:
         is_move_safe["down"] = False
         
-    elif my_head.x == 0:
+    if my_head.x == 0:
         is_move_safe["left"] = False
 
     # Step 2 - Prevent your Battlesnake from colliding with itself
     # my_body = game_state['you']['body']
-    collision(my_head, my.body[1:], is_move_safe)
+    is_move_safe = collision(my_head, my.body[1:], is_move_safe)
 
     # TODO: Step 3 - Prevent your Battlesnake from colliding with other Battlesnakes
     # opponents = game_state['board']['snakes']
 
-    opponents = game_state.board.snakes[1:]
-    
+    opponents = [
+    snake for snake in game_state.board.snakes
+    if snake.name != my.name
+    ]
+
     for opponent in opponents:
-        collision(my_head, opponent.body, is_move_safe)
+        is_move_safe = collision(my_head, opponent.body, is_move_safe)
 
     # Are there any safe moves left? 
     safe_moves = []
