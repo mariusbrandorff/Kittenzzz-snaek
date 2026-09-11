@@ -57,3 +57,9 @@ battlesnake play -W 11 -H 11 --name 'Python Starter Project' --url http://localh
 Continue with the [Battlesnake Quickstart Guide](https://docs.battlesnake.com/quickstart) to customize and improve your Battlesnake's behavior.
 
 **Note:** To play games on [play.battlesnake.com](https://play.battlesnake.com) you'll need to deploy your Battlesnake to a live web server OR use a port forwarding tool like [ngrok](https://ngrok.com/) to access your server locally.
+
+
+# Extra runs
+```sh
+battlesnake play -W 11 -H 11 -g standard --browser --name 'Player1' --url http://localhost:8000 --name 'Player2' --url http://localhost:8000 --name 'Player3' --url http://localhost:8000 --name 'Player4' --url http://localhost:8000
+```

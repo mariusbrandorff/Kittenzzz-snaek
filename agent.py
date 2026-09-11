@@ -1,0 +1,74 @@
+import random
+from typing import Dict, List
+
+
+from gamestate import GameState, Vector
+
+def vector_direction(v1: Vector, v2: Vector) -> str:
+    if (v2.x < v1.x): return "left"
+    if (v2.x > v1.x): return "right"
+    if (v2.y < v1.y): return "down"
+    if (v2.y > v1.y): return "up"
+    return
+
+def collision(v1: Vector, segments: List[Vector], is_move_safe: Dict):
+    for segment in segments:
+        if (segment.distance(v1) == 1):
+            is_move_safe[vector_direction(v1, segment)] = False
+
+def choose_move(game_state: GameState) -> str:
+
+    is_move_safe = {"up": True, "down": True, "left": True, "right": True}
+
+    my = game_state.you
+
+    # We've included code to prevent your Battlesnake from moving backwards
+    my_head = my.head  # Coordinates of your head
+    my_neck = my.neck  # Coordinates of your "neck"
+    
+    # Step 1 - Prevent your Battlesnake from moving out of bounds
+    board = game_state.board
+
+    if my_head.y == board.height-1:
+        is_move_safe["up"] = False
+
+    elif my_head.x == board.width-1:
+        is_move_safe["right"] = False
+
+    elif my_head.y == 0:
+        is_move_safe["down"] = False
+        
+    elif my_head.x == 0:
+        is_move_safe["left"] = False
+
+    # Step 2 - Prevent your Battlesnake from colliding with itself
+    # my_body = game_state['you']['body']
+    collision(my_head, my.body[1:], is_move_safe)
+
+    # TODO: Step 3 - Prevent your Battlesnake from colliding with other Battlesnakes
+    # opponents = game_state['board']['snakes']
+
+    opponents = game_state.board.snakes[1:]
+    
+    for opponent in opponents:
+        collision(my_head, opponent.body, is_move_safe)
+
+    # Are there any safe moves left? 
+    safe_moves = []
+    for move, isSafe in is_move_safe.items():
+        if isSafe:
+            print(move)
+            safe_moves.append(move)
+
+    if len(safe_moves) == 0:
+        print(f"MOVE {game_state.turn}: No safe moves detected! Imma KMS")
+        return {"move": "down"}
+
+    # Choose a random move from the safe ones
+    next_move = random.choice(safe_moves)
+
+    # TODO: Step 4 - Move towards food instead of random, to regain health and survive longer
+    # food = game_state['board']['food']
+
+    print(f"MOVE {game_state.turn}: {next_move}")
+    return next_move

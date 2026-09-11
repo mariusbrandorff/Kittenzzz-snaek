@@ -1,12 +1,12 @@
 import logging
 import os
-import typing
 
 from flask import Flask
 from flask import request
+from typing import Dict, Callable
+from gamestate import GameState
 
-
-def run_server(handlers: typing.Dict):
+def run_server(handlers: Dict[str, Callable[[GameState], Dict | None]]):
     app = Flask("Battlesnake")
 
     @app.get("/")
@@ -21,7 +21,7 @@ def run_server(handlers: typing.Dict):
 
     @app.post("/move")
     def on_move():
-        game_state = request.get_json()
+        game_state = GameState(request.get_json())
         return handlers["move"](game_state)
 
     @app.post("/end")
