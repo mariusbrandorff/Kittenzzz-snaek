@@ -34,11 +34,12 @@
         "body": [
           {"x": 0, "y": 0},
           {"x": 1, "y": 0},
-          {"x": 2, "y": 0}
+          {"x": 2, "y": 0},
+          {"x": 2, "y": 1}
         ],
         "latency": "111",
         "head": {"x": 0, "y": 0},
-        "length": 3,
+        "length": 4,
         "shout": "why are we shouting??",
         "customizations":{
           "color":"#FF0000",
@@ -75,11 +76,12 @@
     "body": [
       {"x": 0, "y": 0},
       {"x": 1, "y": 0},
-      {"x": 2, "y": 0}
+      {"x": 2, "y": 0},
+      {"x": 2, "y": 1}
     ],
     "latency": "111",
     "head": {"x": 0, "y": 0},
-    "length": 3,
+    "length": 4,
     "shout": "why are we shouting??",
     "customizations": {
       "color":"#FF0000",

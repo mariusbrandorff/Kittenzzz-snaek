@@ -1,0 +1,1 @@
+Invoke-RestMethod http://127.0.0.1:8000/move -Method Post -ContentType 'application/json' -InFile example_move.json
