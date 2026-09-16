@@ -10,6 +10,15 @@ class Vector:
         self.x = x
         self.y = y
 
+    def __eq__(self, value: "Vector"):
+        return self.x == value.x and self.y == value.y # && findes ikke :( gg det skal være 'and'
+
+    def __hash__(self):
+        return hash((self.x, self.y))
+
+    def __str__(self):
+        return f"Vector({self.x}, {self.y})"
+
     """fd stands for From Dictionary"""
     @classmethod
     def fd(self, d: Dict) -> "Vector":
@@ -89,22 +98,24 @@ class BoardState:
                 mapType = mapped[y][x]
                 if mapType == MapType.SNAKE_HEAD:
                     dangerMapped[y][x] = 1
-                if mapType == MapType.SNAKE_BODY:
-                    dangerMapped[y][x] = 0.7
-                if mapType == MapType.HAZARD:
-                    dangerMapped[y][x] = 0.5
+                elif mapType == MapType.SNAKE_BODY:
+                    dangerMapped[y][x] = 1
+                elif mapType == MapType.HAZARD:
+                    dangerMapped[y][x] = 1
+                elif mapType == MapType.FOOD:
+                    dangerMapped[y][x] = -0.5
             #TODO: map enemy snake next movepath
 
         dangerMapped[self.game_state.you.head.y][self.game_state.you.head.x] = 1.5
 
-        plt.imshow( dangerMapped , cmap = 'magma' )
-        plt.gca().invert_yaxis()
-        plt.title( "2-D Heat Map" )
-        plt.xlabel('x-axis')
-        plt.ylabel('y-axis')
-        plt.colorbar()
+        # plt.imshow( dangerMapped , cmap = 'magma' )
+        # plt.gca().invert_yaxis()
+        # plt.title( "2-D Heat Map" )
+        # plt.xlabel('x-axis')
+        # plt.ylabel('y-axis')
+        # plt.colorbar()
 
-        plt.show()
+        # plt.show()
 
         return dangerMapped
         

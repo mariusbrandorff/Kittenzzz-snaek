@@ -43,4 +43,4 @@ def run_server(handlers: Dict[str, Callable[[GameState], Dict | None]]):
     logging.getLogger("werkzeug").setLevel(logging.ERROR)
 
     print(f"\nRunning Battlesnake at http://{host}:{port}")
-    app.run(host=host, port=port)
+    app.run(host=host, port=port, debug=True)
