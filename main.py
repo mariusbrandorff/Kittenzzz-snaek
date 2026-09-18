@@ -18,11 +18,11 @@ from gamestate import GameState
 from step_0_state_attributes import make_training_example
 
 # Step 1 enables recording; normal play and Step 4 do not write datasets.
-recording_enabled = False
+recording_enabled = True
 recording_seed = None
 recorded_rows = []
 
-def record_state(game_state: typing.Dict, direction: str):
+def record_state(game_state: GameState, direction: str):
     """Store one example using the shared schema in step_0_state_attributes.py."""
     recorded_rows.append(make_training_example(
         game_state, direction, seed=recording_seed, label_source="rule_based_agent"
