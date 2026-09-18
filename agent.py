@@ -6,20 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 from gamestate import GameState, Vector
-
-# Step 1 enables recording; normal play and Step 4 do not write datasets.
-recording_enabled = False
-recording_seed = None
-recorded_rows = []
-
-
-def record_state(game_state: typing.Dict, direction: str):
-    """Store one example using the shared schema in step_0_state_attributes.py."""
-    recorded_rows.append(make_training_example(
-        game_state, direction, seed=recording_seed, label_source="rule_based_agent"
-    ))
-
-
+ 
 def vector_direction(v1: Vector, v2: Vector) -> str:
     if (v2.x < v1.x): return "left"
     if (v2.x > v1.x): return "right"
@@ -206,4 +193,5 @@ def choose_move(game_state: GameState) -> str:
         next_move = safe_move(game_state)
 
     print(f"MOVE {game_state.turn}: {next_move}")
+
     return next_move

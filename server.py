@@ -5,6 +5,8 @@ import typing
 from flask import Flask
 from flask import request
 
+from gamestate import GameState
+
 
 def create_app(handlers: typing.Dict):
     app = Flask("Battlesnake")
@@ -21,7 +23,7 @@ def create_app(handlers: typing.Dict):
 
     @app.post("/move")
     def on_move():
-        game_state = request.get_json()
+        game_state = GameState(request.get_json())
         return handlers["move"](game_state)
 
     @app.post("/end")

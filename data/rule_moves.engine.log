@@ -1,0 +1,1150 @@
+INFO 13:38:29.590015 Snake ID: baa4cc0b-bfd9-4357-9ac1-33759c0b05be URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:29.591569 Ruleset: solo, Seed: 100
+INFO 13:38:29.592353 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.614313 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.614819 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.621871 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.622464 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.631522 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.631522 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.640827 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.640827 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.648180 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.648180 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.656026 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.656026 Turn: 6, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:38:29.657057 Game completed after 7 turns.
+INFO 13:38:29.686768 Snake ID: e9884909-2839-4deb-830b-248c630ed130 URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:29.688334 Ruleset: solo, Seed: 101
+INFO 13:38:29.688792 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.705527 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.705527 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.712518 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.712518 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.718555 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.718555 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.724620 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.724620 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.736857 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.736857 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.749870 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.749870 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.761976 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.761976 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.771567 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.771567 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:38:29.778340 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.778340 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:38:29.784763 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.784763 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:38:29.786304 Game completed after 11 turns.
+INFO 13:38:29.821261 Snake ID: f8abc3fa-d32a-48b2-9360-7cf638fd8cb2 URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:29.822815 Ruleset: solo, Seed: 102
+INFO 13:38:29.823333 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.844547 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.844547 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.852463 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.852463 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:38:29.854318 Game completed after 3 turns.
+INFO 13:38:29.883633 Snake ID: 2330d916-3146-4dd4-bd41-d2479b9571f6 URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:29.885776 Ruleset: solo, Seed: 103
+INFO 13:38:29.885776 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.909565 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.909565 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.916260 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.917128 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.923857 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.923857 Turn: 3, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:29.929892 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.929892 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.937989 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.937989 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:29.945821 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.945821 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:38:29.955618 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.955618 Turn: 7, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:38:29.965129 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.965129 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:38:29.976170 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.976170 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:38:29.987754 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:29.987754 Turn: 10, Snakes Alive: [], Food: 5, Hazards: 0
+INFO 13:38:29.988972 Game completed after 11 turns.
+INFO 13:38:30.018296 Snake ID: 854ebd99-c2a9-4a38-bb3d-094db415d2c4 URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:30.020392 Ruleset: solo, Seed: 104
+INFO 13:38:30.020918 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.046296 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.046296 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.053018 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.053018 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:38:30.054163 Game completed after 3 turns.
+INFO 13:38:30.085689 Snake ID: af68e874-edef-4931-8308-af4a37da7114 URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:30.088355 Ruleset: solo, Seed: 105
+INFO 13:38:30.088355 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.107066 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.107066 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.113275 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.113275 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:38:30.115605 Game completed after 3 turns.
+INFO 13:38:30.144334 Snake ID: b9a4b0d8-2df4-4fc6-82e5-17efc9295323 URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:30.145874 Ruleset: solo, Seed: 106
+INFO 13:38:30.146230 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.167931 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.167931 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.173863 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.173863 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:38:30.174905 Game completed after 3 turns.
+INFO 13:38:30.203959 Snake ID: 61f78090-5cfd-4119-a19a-bd574a363261 URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:30.205514 Ruleset: solo, Seed: 107
+INFO 13:38:30.206029 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.228877 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.228877 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.235432 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.235432 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.269801 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.269801 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.277819 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.277819 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.285337 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.285337 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.294359 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.294359 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:38:30.304224 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.304224 Turn: 7, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:38:30.313692 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.313692 Turn: 8, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:38:30.324731 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.324731 Turn: 9, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:38:30.332926 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.332926 Turn: 10, Snakes Alive: [], Food: 6, Hazards: 0
+INFO 13:38:30.334973 Game completed after 11 turns.
+INFO 13:38:30.363553 Snake ID: cf3ddb08-c229-429c-8529-b31c5be709f6 URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:30.365088 Ruleset: solo, Seed: 108
+INFO 13:38:30.365462 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.381867 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.381867 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.388911 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.388911 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.395448 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.395448 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.401348 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.401348 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.407782 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.407782 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.421787 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.421787 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.430841 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.430841 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.440524 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.440524 Turn: 8, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:38:30.448551 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.448551 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:38:30.458196 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.458196 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:38:30.460229 Game completed after 11 turns.
+INFO 13:38:30.490911 Snake ID: 4801c356-07ce-4cfa-80e3-7bef460cfdd4 URL: http://127.0.0.1:58087, Name: "Rule-based agent"
+INFO 13:38:30.492499 Ruleset: solo, Seed: 109
+INFO 13:38:30.493017 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.521301 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.521301 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:38:30.526389 Got non-ok status code from http://127.0.0.1:58087/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:38:30.527203 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:38:30.529255 Game completed after 3 turns.
+INFO 13:49:34.044482 Snake ID: 2fbb4911-7331-4067-8f0e-59ca8cfce038 URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.049137 Ruleset: solo, Seed: 100
+INFO 13:49:34.049618 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.069715 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.069715 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.075478 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.075478 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.080525 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.080525 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.085892 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.085892 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.092209 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.092209 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.097668 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.097668 Turn: 6, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:49:34.099724 Game completed after 7 turns.
+INFO 13:49:34.138271 Snake ID: 04136307-1882-4742-b3e0-ecfef7af5ed2 URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.140936 Ruleset: solo, Seed: 101
+INFO 13:49:34.141779 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.160818 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.160818 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.166903 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.166903 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.172101 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.172101 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.177189 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.177189 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.193902 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.193902 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.209716 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.209716 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.221337 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.221337 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.229197 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.229197 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:49:34.234242 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.234242 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:49:34.238310 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.238310 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:49:34.240584 Game completed after 11 turns.
+INFO 13:49:34.313289 Snake ID: 9c732889-ee66-4f14-9236-ea2d6417221b URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.315063 Ruleset: solo, Seed: 102
+INFO 13:49:34.315700 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.330943 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.330943 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.334377 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.334377 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:49:34.335413 Game completed after 3 turns.
+INFO 13:49:34.374417 Snake ID: b1fadce9-fdff-4a0a-afbd-424ea3d59d15 URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.376245 Ruleset: solo, Seed: 103
+INFO 13:49:34.376735 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.391246 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.391246 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.394480 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.394480 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.397944 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.397944 Turn: 3, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.401407 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.401407 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.406936 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.406936 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.413130 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.413130 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:49:34.420597 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.420597 Turn: 7, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:49:34.428321 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.428321 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:49:34.435774 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.435774 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:49:34.443974 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.443974 Turn: 10, Snakes Alive: [], Food: 5, Hazards: 0
+INFO 13:49:34.446030 Game completed after 11 turns.
+INFO 13:49:34.480706 Snake ID: 060c065a-d7ed-4827-8d3d-cfeed816933f URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.482909 Ruleset: solo, Seed: 104
+INFO 13:49:34.483577 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.500166 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.500166 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.503389 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.503389 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:49:34.505463 Game completed after 3 turns.
+INFO 13:49:34.538706 Snake ID: cb3a9585-51f2-4f4f-9ec0-f3dffb629348 URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.541067 Ruleset: solo, Seed: 105
+INFO 13:49:34.541836 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.561560 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.561560 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.565599 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.565599 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:49:34.566644 Game completed after 3 turns.
+INFO 13:49:34.597405 Snake ID: cc6a44cf-2338-4452-931a-c263af3a589b URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.599243 Ruleset: solo, Seed: 106
+INFO 13:49:34.599630 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.624249 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.624249 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.627598 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.627598 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:49:34.628649 Game completed after 3 turns.
+INFO 13:49:34.658186 Snake ID: 4d2f4578-8aa3-4bb2-8c8c-aefdcece1ea3 URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.659733 Ruleset: solo, Seed: 107
+INFO 13:49:34.660372 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.686337 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.686337 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.689847 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.689847 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.694904 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.694904 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.700431 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.700431 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.705143 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.705143 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.735714 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.735714 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:49:34.742730 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.742730 Turn: 7, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:49:34.749246 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.749655 Turn: 8, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:49:34.756605 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.756605 Turn: 9, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:49:34.761677 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.762339 Turn: 10, Snakes Alive: [], Food: 6, Hazards: 0
+INFO 13:49:34.763853 Game completed after 11 turns.
+INFO 13:49:34.792557 Snake ID: 711843e2-763d-4d14-bc2d-8a2618c4b83b URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.794148 Ruleset: solo, Seed: 108
+INFO 13:49:34.794558 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.809908 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.809908 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.813583 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.813583 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.816639 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.816639 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.819111 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.819111 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.821622 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.821622 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.832380 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.832380 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.839177 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.839177 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.845217 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.845217 Turn: 8, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:49:34.850882 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.850882 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:49:34.857724 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.857724 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:49:34.858757 Game completed after 11 turns.
+INFO 13:49:34.887916 Snake ID: 5cde42be-4779-4e11-b80d-b7b54e8cc099 URL: http://127.0.0.1:55723, Name: "Rule-based agent"
+INFO 13:49:34.889456 Ruleset: solo, Seed: 109
+INFO 13:49:34.889975 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.916831 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.916831 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:49:34.919719 Got non-ok status code from http://127.0.0.1:55723/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:49:34.919719 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:49:34.920744 Game completed after 3 turns.
+INFO 13:53:54.711793 Snake ID: cf2827bd-831d-4c4a-8b0e-e6a00acd7068 URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:54.716010 Ruleset: solo, Seed: 100
+INFO 13:53:54.716010 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:54.789442 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.789442 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:54.795485 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.795485 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:54.801000 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.801000 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:54.816074 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.816074 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:54.823149 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.823149 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:54.829144 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.829144 Turn: 6, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:53:54.832180 Game completed after 7 turns.
+INFO 13:53:54.871397 Snake ID: 58c66de5-ddde-4c27-97eb-287757c3d5e9 URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:54.873476 Ruleset: solo, Seed: 101
+INFO 13:53:54.874077 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:54.893511 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.893511 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:54.900227 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.900227 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:54.908529 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.909128 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:54.913727 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.913727 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:54.929584 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.929584 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:54.944548 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.944548 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:54.954350 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.954350 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:54.961495 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.961495 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:53:54.966189 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.966189 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:53:54.970149 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:54.970149 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:53:54.972191 Game completed after 11 turns.
+INFO 13:53:55.002913 Snake ID: b72f28f2-368b-4750-b844-b6372177b249 URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:55.005046 Ruleset: solo, Seed: 102
+INFO 13:53:55.005409 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.029807 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.029807 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.032949 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.032949 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:53:55.034460 Game completed after 3 turns.
+INFO 13:53:55.063965 Snake ID: fcb54c67-291b-40d2-9c5d-8dd67eedd29f URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:55.065722 Ruleset: solo, Seed: 103
+INFO 13:53:55.065722 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.092098 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.092098 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.094811 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.094811 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.097868 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.097868 Turn: 3, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.100969 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.100969 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.106562 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.106562 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.112046 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.112046 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:53:55.118984 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.118984 Turn: 7, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:53:55.126213 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.126213 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:53:55.134504 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.134504 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:53:55.141734 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.142593 Turn: 10, Snakes Alive: [], Food: 5, Hazards: 0
+INFO 13:53:55.143618 Game completed after 11 turns.
+INFO 13:53:55.174555 Snake ID: 083a0fc1-add7-45d5-821e-dd16b9432b30 URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:55.176117 Ruleset: solo, Seed: 104
+INFO 13:53:55.176117 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.198715 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.198715 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.201263 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.201263 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:53:55.202775 Game completed after 3 turns.
+INFO 13:53:55.231632 Snake ID: 6abb67e2-055a-4671-9007-7455ec9b03e4 URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:55.233205 Ruleset: solo, Seed: 105
+INFO 13:53:55.233569 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.261284 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.261284 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.264309 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.264309 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:53:55.265952 Game completed after 3 turns.
+INFO 13:53:55.294781 Snake ID: aec77927-f5cc-416d-9bdb-9ab118fae432 URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:55.296351 Ruleset: solo, Seed: 106
+INFO 13:53:55.296351 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.322265 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.322265 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.325064 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.325064 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:53:55.326090 Game completed after 3 turns.
+INFO 13:53:55.357034 Snake ID: 8a8775f0-e078-46df-82cc-2fdb3fe3317c URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:55.358712 Ruleset: solo, Seed: 107
+INFO 13:53:55.359050 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.387148 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.387148 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.391115 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.391115 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.395150 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.395150 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.400805 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.400805 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.406317 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.406317 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.437024 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.437024 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:53:55.444331 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.444331 Turn: 7, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:53:55.452137 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.452137 Turn: 8, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:53:55.460252 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.460252 Turn: 9, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:53:55.465784 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.465784 Turn: 10, Snakes Alive: [], Food: 6, Hazards: 0
+INFO 13:53:55.466810 Game completed after 11 turns.
+INFO 13:53:55.496614 Snake ID: d48d86a7-7d82-45f0-bf9d-7be3de6aa883 URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:55.498218 Ruleset: solo, Seed: 108
+INFO 13:53:55.498218 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.525464 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.525464 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.529461 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.529461 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.532293 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.532293 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.534803 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.534803 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.538442 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.538442 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.549408 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.549408 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.556217 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.556217 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.561719 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.561719 Turn: 8, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:53:55.567210 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.567210 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:53:55.574275 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.574275 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:53:55.575569 Game completed after 11 turns.
+INFO 13:53:55.606252 Snake ID: 19078e89-840d-4275-89ba-49c7361e07b9 URL: http://127.0.0.1:53016, Name: "Rule-based agent"
+INFO 13:53:55.607845 Ruleset: solo, Seed: 109
+INFO 13:53:55.607845 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.632189 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.632189 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:53:55.635289 Got non-ok status code from http://127.0.0.1:53016/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:53:55.635289 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:53:55.637554 Game completed after 3 turns.
+INFO 13:56:31.668640 Snake ID: e2fe6ed2-e490-47db-9a73-6ae9dd946309 URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:31.670716 Ruleset: solo, Seed: 100
+INFO 13:56:31.671371 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.697409 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.697409 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.700471 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.700471 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.703422 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.703422 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.706514 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.706514 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.709384 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.709384 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.712140 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.712140 Turn: 6, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:56:31.713173 Game completed after 7 turns.
+INFO 13:56:31.745467 Snake ID: d4270fd9-33f1-442c-b747-835baa3d9ab8 URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:31.747019 Ruleset: solo, Seed: 101
+INFO 13:56:31.747551 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.773271 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.773271 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.775337 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.775337 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.777684 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.777684 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.779687 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.779687 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.781724 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.781724 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.784472 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.784472 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.787014 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.787014 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.789429 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.789429 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:56:31.791458 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.791458 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:56:31.793588 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.793588 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:56:31.794761 Game completed after 11 turns.
+INFO 13:56:31.825207 Snake ID: 3ce0fd48-807d-4ff7-a7e4-f0f523062bb8 URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:31.826787 Ruleset: solo, Seed: 102
+INFO 13:56:31.826787 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.852351 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.852351 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.857181 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.857181 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:56:31.859665 Game completed after 3 turns.
+INFO 13:56:31.890623 Snake ID: c23e0ff5-290a-487f-ae90-30011739f450 URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:31.892174 Ruleset: solo, Seed: 103
+INFO 13:56:31.892497 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.913806 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.913806 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.920129 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.920129 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.925880 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.925880 Turn: 3, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:31.929121 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.930067 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.933172 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.933172 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:31.936389 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.936979 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:56:31.939608 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.939608 Turn: 7, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:56:31.942034 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.942034 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:56:31.944682 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.944682 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:56:31.947117 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:31.947117 Turn: 10, Snakes Alive: [], Food: 5, Hazards: 0
+INFO 13:56:31.948196 Game completed after 11 turns.
+INFO 13:56:31.985388 Snake ID: c0e051c0-11be-4cf4-89a7-7b5653609807 URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:31.986992 Ruleset: solo, Seed: 104
+INFO 13:56:31.987701 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.005787 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.005787 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.009510 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.009510 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:56:32.010537 Game completed after 3 turns.
+INFO 13:56:32.041338 Snake ID: acec3996-8b6f-402f-8472-076e222bfb04 URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:32.042912 Ruleset: solo, Seed: 105
+INFO 13:56:32.042912 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.066846 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.066846 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.071645 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.072148 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:56:32.075471 Game completed after 3 turns.
+INFO 13:56:32.107184 Snake ID: 42a4d251-04ba-4060-9676-e9449de1109b URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:32.108833 Ruleset: solo, Seed: 106
+INFO 13:56:32.108833 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.130039 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.130039 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.135013 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.135013 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:56:32.137078 Game completed after 3 turns.
+INFO 13:56:32.166715 Snake ID: 96d22d06-2089-4332-b4f9-7d12fdddd569 URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:32.168781 Ruleset: solo, Seed: 107
+INFO 13:56:32.168781 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.189790 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.189790 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.191820 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.191820 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.193924 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.193924 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.195846 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.195846 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.198014 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.198014 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.200168 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.200168 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:56:32.202540 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.202540 Turn: 7, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:56:32.205625 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.205625 Turn: 8, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:56:32.207768 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.207768 Turn: 9, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:56:32.210161 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.210161 Turn: 10, Snakes Alive: [], Food: 6, Hazards: 0
+INFO 13:56:32.211194 Game completed after 11 turns.
+INFO 13:56:32.241135 Snake ID: 91c2194f-7010-4a32-9275-1e2e3eb6f8b2 URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:32.242713 Ruleset: solo, Seed: 108
+INFO 13:56:32.242713 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.266598 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.266598 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.269614 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.269614 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.271651 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.271651 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.299285 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.299285 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.302438 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.302854 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.305397 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.305397 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.308031 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.308031 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.310069 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.310069 Turn: 8, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:56:32.312747 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.312747 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:56:32.315726 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.315726 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:56:32.317783 Game completed after 11 turns.
+INFO 13:56:32.348503 Snake ID: 11b486bd-db9a-417f-b03f-2bea4990ca1f URL: http://127.0.0.1:59719, Name: "Rule-based agent"
+INFO 13:56:32.350063 Ruleset: solo, Seed: 109
+INFO 13:56:32.350918 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.374220 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.374220 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:56:32.376262 Got non-ok status code from http://127.0.0.1:59719/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:56:32.376262 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:56:32.376870 Game completed after 3 turns.
+INFO 13:57:00.602444 Snake ID: 19fe40eb-7acf-4d7c-9913-d7f9e6be84a3 URL: http://127.0.0.1:53392, Name: "Rule-based agent"
+INFO 13:57:00.604541 Ruleset: solo, Seed: 100
+INFO 13:57:00.605402 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:00.618441 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:00.621584 Turn: 2, Snakes Alive: [Rule-based agent], Food: 1, Hazards: 0
+INFO 13:57:00.628109 Turn: 3, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:00.634127 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:00.638787 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:00.641792 Turn: 6, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:00.644833 Turn: 7, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:00.656880 Turn: 8, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:00.667156 Turn: 9, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:00.676211 Turn: 10, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:00.684165 Turn: 11, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:00.689950 Turn: 12, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:00.695139 Turn: 13, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.699088 Turn: 14, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.706794 Turn: 15, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.713989 Turn: 16, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.718914 Turn: 17, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.722256 Turn: 18, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.740456 Turn: 19, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.760589 Turn: 20, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.780440 Turn: 21, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.806245 Turn: 22, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.817723 Turn: 23, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.822841 Turn: 24, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.826405 Turn: 25, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.835136 Turn: 26, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:57:00.839198 Turn: 27, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:57:00.842320 Turn: 28, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:57:00.848356 Turn: 29, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:57:00.854037 Turn: 30, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:57:00.858035 Turn: 31, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:57:00.861079 Turn: 32, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:57:00.864142 Turn: 33, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:57:00.870482 Turn: 34, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:57:00.874205 Turn: 35, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:57:00.878311 Turn: 36, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:57:00.881072 Turn: 37, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:57:00.892508 Turn: 38, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:57:00.899283 Turn: 39, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:57:00.904835 Turn: 40, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:57:00.908828 Turn: 41, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:57:00.945849 Turn: 42, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:57:00.954515 Turn: 43, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:57:00.959133 Turn: 44, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:57:00.962174 Turn: 45, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:57:00.965124 Turn: 46, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.969285 Turn: 47, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.974687 Turn: 48, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.977593 Turn: 49, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.980283 Turn: 50, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.983267 Turn: 51, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:00.985538 Turn: 52, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.988814 Turn: 53, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.991295 Turn: 54, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:00.996325 Turn: 55, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.001120 Turn: 56, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:01.004713 Turn: 57, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:01.007273 Turn: 58, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:57:01.009596 Turn: 59, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.012875 Turn: 60, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.016055 Turn: 61, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.019255 Turn: 62, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:01.024303 Turn: 63, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:01.027469 Turn: 64, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:01.033728 Turn: 65, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:01.039680 Turn: 66, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:01.048004 Turn: 67, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:01.053926 Turn: 68, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:01.058605 Turn: 69, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:01.062713 Turn: 70, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:01.075573 Turn: 71, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:01.086670 Turn: 72, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:57:01.095423 Turn: 73, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:01.100718 Turn: 74, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:01.105625 Turn: 75, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:01.109561 Turn: 76, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:01.113209 Turn: 77, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:57:01.119820 Turn: 78, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.124347 Turn: 79, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.126995 Turn: 80, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.129603 Turn: 81, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.134083 Turn: 82, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.137487 Turn: 83, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.140423 Turn: 84, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.142940 Turn: 85, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.146457 Turn: 86, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.150612 Turn: 87, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.153558 Turn: 88, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.155630 Turn: 89, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:57:01.158687 Turn: 90, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:57:01.160793 Game completed after 91 turns.

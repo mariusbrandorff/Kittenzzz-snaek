@@ -11,11 +11,22 @@
 # For more info see docs.battlesnake.com
 
 import random
-
+import typing as typing
 from typing import Dict
 from agent import choose_move
 from gamestate import GameState
+from step_0_state_attributes import make_training_example
 
+# Step 1 enables recording; normal play and Step 4 do not write datasets.
+recording_enabled = False
+recording_seed = None
+recorded_rows = []
+
+def record_state(game_state: typing.Dict, direction: str):
+    """Store one example using the shared schema in step_0_state_attributes.py."""
+    recorded_rows.append(make_training_example(
+        game_state, direction, seed=recording_seed, label_source="rule_based_agent"
+    ))
 
 # info is called when you create your Battlesnake on play.battlesnake.com
 # and controls your Battlesnake's appearance
@@ -47,7 +58,12 @@ def end(game_state: GameState):
 # See https://docs.battlesnake.com/api/example-move for available data
 def move(game_state: GameState) -> Dict:
     print(f"MOVE {game_state.turn}: {game_state}")
-    return {"move": choose_move(game_state)}
+    next_move = {"move": choose_move(game_state)}
+    
+    if recording_enabled:
+        record_state(game_state, next_move)
+        
+    return next_move
 
 # Start server when `python main.py` is run
 if __name__ == "__main__":

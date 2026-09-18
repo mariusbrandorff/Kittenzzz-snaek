@@ -120,11 +120,13 @@ class BoardState:
         return dangerMapped
         
 class GameState:
+    id: str
     turn: int
     board: BoardState
     you: SnakeState
 
     def __init__(self, state: Dict) -> None:
+        self.id = state["game"]["id"]
         self.turn = state["turn"]
         self.board = BoardState(self, state["board"])
         self.you = SnakeState(state["you"])

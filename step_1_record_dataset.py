@@ -14,7 +14,7 @@ import threading
 import pandas as pd
 from werkzeug.serving import make_server
 
-import rule_based_agent as agent
+import main as agent
 from step_0_state_attributes import load_dataframe
 from server import create_app
 
