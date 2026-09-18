@@ -56,8 +56,7 @@ def make_training_example(gamestate : GameState, direction, *, label_source, see
         "turn": gamestate.turn,
         "seed": seed,
         "direction": direction,
-        "label_source": label_source,
-        "state": gamestate,
+        "label_source": label_source
     }
     return copy.deepcopy(row)
 

@@ -79,7 +79,7 @@ def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--games", type=int, default=1)
     p.add_argument("--data", default="data/rule_moves.json")
-    p.add_argument("--engine", default="battlesnake/battlesnake.exe")
+    p.add_argument("--engine", default="battlesnake/battlesnake")
     p.add_argument("--seed", type=int, default=100)
     p.add_argument("--seconds", type=float, default=120, help="Maximum seconds per game before aborting")
     args = p.parse_args()

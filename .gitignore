@@ -2,4 +2,8 @@
 *.pyc
 __pycache__/
 
+battlesnake/*
+
+data/*
+
 .venv
