@@ -1,12 +1,12 @@
 import logging
 import os
+import typing
 
 from flask import Flask
 from flask import request
-from typing import Dict, Callable
-from gamestate import GameState
 
-def run_server(handlers: Dict[str, Callable[[GameState], Dict | None]]):
+
+def create_app(handlers: typing.Dict):
     app = Flask("Battlesnake")
 
     @app.get("/")
@@ -21,7 +21,7 @@ def run_server(handlers: Dict[str, Callable[[GameState], Dict | None]]):
 
     @app.post("/move")
     def on_move():
-        game_state = GameState(request.get_json())
+        game_state = request.get_json()
         return handlers["move"](game_state)
 
     @app.post("/end")
@@ -37,10 +37,15 @@ def run_server(handlers: Dict[str, Callable[[GameState], Dict | None]]):
         )
         return response
 
+    return app
+
+
+def run_server(handlers: typing.Dict):
+    app = create_app(handlers)
     host = "0.0.0.0"
     port = int(os.environ.get("PORT", "8000"))
 
     logging.getLogger("werkzeug").setLevel(logging.ERROR)
 
     print(f"\nRunning Battlesnake at http://{host}:{port}")
-    app.run(host=host, port=port)
+    app.run(host=host, port=port, debug=True)
