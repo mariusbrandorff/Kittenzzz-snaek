@@ -61,7 +61,7 @@ class SnakeState:
         
 
 class BoardState:
-    game_state: "GameState"
+    you: SnakeState
     height: int
     width: int
     food: List[Vector]
@@ -69,8 +69,8 @@ class BoardState:
     snakes: List[SnakeState]
     size: Vector
 
-    def __init__(self, game_state: "GameState", board: Dict):
-        self.game_state = game_state
+    def __init__(self, you: SnakeState, board: Dict):
+        self.you = you
         self.height = board["height"]
         self.width = board["width"]
         self.food = [Vector.fd(vd) for vd in board["food"]]
@@ -84,7 +84,7 @@ class BoardState:
         for hazard in self.hazards:
             mapped[hazard.y][hazard.x] = MapType.HAZARD
         for snake in self.snakes:
-            if (snake.id != self.game_state.you.id):
+            if snake.id != self.you.id:
                 mapped[snake.head.y][snake.head.x] = MapType.SNAKE_HEAD
             for segment in snake.body[1:]:
                 mapped[segment.y][segment.x] = MapType.SNAKE_BODY
@@ -106,7 +106,7 @@ class BoardState:
                     dangerMapped[y][x] = -0.5
             #TODO: map enemy snake next movepath
 
-        dangerMapped[self.game_state.you.head.y][self.game_state.you.head.x] = 1.5
+        dangerMapped[self.you.head.y][self.you.head.x] = 1.5
 
         # plt.imshow( dangerMapped , cmap = 'magma' )
         # plt.gca().invert_yaxis()
@@ -128,5 +128,5 @@ class GameState:
     def __init__(self, state: Dict) -> None:
         self.id = state["game"]["id"]
         self.turn = state["turn"]
-        self.board = BoardState(self, state["board"])
         self.you = SnakeState(state["you"])
+        self.board = BoardState(self.you, state["board"])

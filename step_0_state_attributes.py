@@ -14,20 +14,24 @@ import pandas as pd
 ACTIONS = ["up", "down", "left", "right"]
 DELTAS = {"up": (0, 1), "down": (0, -1), "left": (-1, 0), "right": (1, 0)}
 
-# These numeric columns are the network's inputs. The complete apple list and
-# original state are also recorded, but variable-length lists are not MLP inputs.
-INPUT_COLUMNS = ["board_width", "board_height", "food", "snakes"]
+INPUT_COLUMNS = (["board_width", "board_height", "you_x", "you_y"])
 
 
-def state_to_attributes(gamestate : GameState):
+def state_to_attributes(gamestate: GameState):
     """OPTIONAL TASK: add attributes here; add numeric inputs to INPUT_COLUMNS.
 
     Step 3 calls this exact function during live play. Safe means inside the
     board and outside all current body cells. Tails are treated as occupied.
     This does not predict future traps or simultaneous head-to-head collisions.
     """
-    board, snake = gamestate.board, gamestate.you
-    attributes = {"board_width": gamestate.board.width, "board_height": gamestate.board.height, "food": gamestate.board.food, "snakes": gamestate.board.snakes, "danger": gamestate.board.MapDanger}
+    # The regular server wraps move requests in GameState, while the neural
+    # agent's standalone server passes the decoded request dictionary through.
+    attributes = {
+        "board_width": gamestate.board.width,
+        "board_height": gamestate.board.height,
+        "you_x": gamestate.you.head.x,
+        "you_y": gamestate.you.head.y,
+    }
     
     # add further attributes you want to track. For each attribute, also add the
     #  name of the attribute in the list called INPUT_COLUMNS above.
@@ -56,7 +60,8 @@ def make_training_example(gamestate : GameState, direction, *, label_source, see
         "turn": gamestate.turn,
         "seed": seed,
         "direction": direction,
-        "label_source": label_source
+        "label_source": label_source,
+        "state": gamestate,
     }
     return copy.deepcopy(row)
 

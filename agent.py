@@ -49,7 +49,7 @@ def safe_move(game_state: GameState):
     # my_body = game_state['you']['body']
     is_move_safe = collision(my_head, my.body[1:], is_move_safe)
 
-    # TODO: Step 3 - Prevent your Battlesnake from colliding with other Battlesnakes
+    #  Step 3 - Prevent your Battlesnake from colliding with other Battlesnakes
     # opponents = game_state['board']['snakes']
 
     opponents = [

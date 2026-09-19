@@ -61,7 +61,7 @@ def move(game_state: GameState) -> Dict:
     next_move = {"move": choose_move(game_state)}
     
     if recording_enabled:
-        record_state(game_state, next_move)
+        record_state(game_state, next_move["move"])
         
     return next_move
 
