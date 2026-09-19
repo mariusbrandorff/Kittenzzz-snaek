@@ -7,7 +7,7 @@ import torch
 from flask import Flask, request
 from step_0_state_attributes import ACTIONS, INPUT_COLUMNS, state_to_attributes
 from step_2_train_network import DirectionNetwork
-
+from gamestate import GameState
 
 class NeuralAgent:
     def __init__(self, model_path):
@@ -48,7 +48,7 @@ def create_app(move, start=None, end=None, info=None):
 
     @app.post("/move")
     def on_move():
-        answer = move(request.get_json())
+        answer = move(GameState(request.get_json()))
         if not isinstance(answer, dict) or answer.get("move") not in ACTIONS:
             raise ValueError("Agent must return {'move': 'up'/'down'/'left'/'right'}")
         return answer

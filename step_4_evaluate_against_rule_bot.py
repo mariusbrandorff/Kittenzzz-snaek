@@ -9,7 +9,7 @@ import threading
 
 import pandas as pd
 from werkzeug.serving import make_server
-import rule_based_agent as rule_based_agent
+import main as rule_based_agent
 from step_3_neural_agent import NeuralAgent, create_app
 
 
