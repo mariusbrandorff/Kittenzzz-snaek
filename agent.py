@@ -68,7 +68,7 @@ def safe_move(game_state: GameState):
             safe_moves.append(move)
 
     if len(safe_moves) == 0:
-        print(f"MOVE {game_state.turn}: No safe moves detected! Imma KMS")
+        # print(f"MOVE {game_state.turn}: No safe moves detected! Imma KMS")
         return "down"
 
     # Choose a random move from the safe ones
@@ -154,7 +154,7 @@ def a_star(start: Vector, goals: List[Vector], danger_map: List[List[float]]):
 
         # open_set.remove((priority, current))
         for neighbor in GetNeighbors(current):
-            print(neighbor)
+            # print(neighbor)
             # d(current,neighbor) is the weight of the edge from current to neighbor
             # tentative_g_score is the distance from start to the neighbor through current
             tentative_g_score = g_score[current] + d(current, neighbor)
@@ -192,6 +192,6 @@ def choose_move(game_state: GameState) -> str:
     else:
         next_move = safe_move(game_state)
 
-    print(f"MOVE {game_state.turn}: {next_move}")
+    # print(f"MOVE {game_state.turn}: {next_move}")
 
     return next_move

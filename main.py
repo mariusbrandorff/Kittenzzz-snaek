@@ -57,7 +57,7 @@ def end(game_state: GameState):
 # Valid moves are "up", "down", "left", or "right"
 # See https://docs.battlesnake.com/api/example-move for available data
 def move(game_state: GameState) -> Dict:
-    print(f"MOVE {game_state.turn}: {game_state}")
+    # print(f"MOVE {game_state.turn}: {game_state}")
     next_move = {"move": choose_move(game_state)}
     
     if recording_enabled:
