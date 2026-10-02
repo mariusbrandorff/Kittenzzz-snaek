@@ -1,3 +1,4 @@
+import numpy as np
 """Task: return the last history observations and the NEXT future actions.
 
 features: (game_turns, feature_count), encoded by supplied code.
@@ -9,9 +10,10 @@ The caller handles game boundaries and excludes terminal-horizon examples.
 
 
 def student_make_example(features, actions, t, history, future):
-    # TODO: select observations ending at t and actions starting at t.
-    raise NotImplementedError('Complete student_make_example in Step 1 before preparing the dataset.')
-
+    past = features[t - history + 1 : t + 1]        
+    prediction = actions[t : t + future]        
+            
+    return past, prediction
 
 if __name__ == '__main__':
     from supplied_pipeline import prepare

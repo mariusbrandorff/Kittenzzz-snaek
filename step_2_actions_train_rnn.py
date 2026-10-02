@@ -13,13 +13,21 @@ from torch import nn
 class StudentRNN(nn.Module):
     def __init__(self, input_size, hidden_size, future):
         super().__init__()
+        self.future = future
+        self.rnn = nn.RNN(input_size=input_size, hidden_size=hidden_size, batch_first=True)
+        self.output = nn.Linear(hidden_size, future*4)
+
         # TODO: store future and define the recurrent/output layers.
-        raise NotImplementedError('Define your RNN layers in Step 2.')
+        #raise NotImplementedError('Define your RNN layers in Step 2.')
 
     def forward(self, observations):
         # TODO: recurrent outputs -> last output -> action logits.
-        raise NotImplementedError('Implement your RNN forward pass in Step 2.')
+        #raise NotImplementedError('Implement your RNN forward pass in Step 2.')
 
+        outputs, self.hidden = self.rnn(observations)
+        prediction = self.output(outputs[:, -1, :])
+        
+        return prediction.reshape(observations.shape[0], self.future, 4)
 
 ActionRNN = StudentRNN
 

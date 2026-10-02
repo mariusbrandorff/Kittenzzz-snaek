@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "history": 8,
+    "future": 3,
+    "features": [
+      "head_x",
+      "head_y",
+      "food_dx",
+      "food_dy",
+      "health",
+      "length",
+      "safe_up",
+      "safe_down",
+      "safe_left",
+      "safe_right"
+    ],
+    "actions": [
+      "up",
+      "down",
+      "left",
+      "right"
+    ],
+    "split_seed": 42,
+    "recording_sha256": "e158ee0d4bd471539f44e965ed7bdca32e882cadae95ccfd1e30cca32242bd91",
+    "dataset_sha256": "e34f1d99eb977d933fa5a3cfab79fa15b122f804e184503a873a1817157a177b"
+  },
+  "training_seeds": [
+    0
+  ],
+  "visualization_training_seed": 0,
+  "test_windows": 1437,
+  "test_games": 12,
+  "baseline_fallbacks": 0,
+  "baseline_random_seed": 42
+}
