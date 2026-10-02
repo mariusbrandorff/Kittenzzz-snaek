@@ -1,3 +1,5 @@
-Flask==2.3.2
-numpy==2.5.3
-matplotlib==3.11.2
+numpy
+pandas
+torch
+matplotlib
+pillow
