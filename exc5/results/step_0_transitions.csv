@@ -1,0 +1,3 @@
+turn,head,action,reward,next_head,health
+0,"{'x': 5, 'y': 4}",right,-0.01,"{'x': 6, 'y': 4}",99
+1,"{'x': 6, 'y': 4}",left,-1.0,"{'x': 5, 'y': 4}",98

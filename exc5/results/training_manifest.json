@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "BOARD_SIZE": 7,
+    "MAX_STEPS": 250,
+    "MAX_HEALTH": 100,
+    "FOOD_REWARD": 1.0,
+    "DEATH_REWARD": -1.0,
+    "STEP_REWARD": -0.01,
+    "STATE_SHAPE": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      3
+    ],
+    "ENCODING_VERSION": "safe4_food_direction2_v1",
+    "ACTIONS": [
+      "up",
+      "down",
+      "left",
+      "right"
+    ]
+  },
+  "episodes": 6000,
+  "seeds": [
+    0
+  ],
+  "alpha": 0.1,
+  "gamma": 0.95,
+  "epsilon_start": 1.0,
+  "epsilon_end": 0.05,
+  "decay_fraction": 0.8,
+  "demonstration_seed": 800000
+}
