@@ -33,30 +33,39 @@ def train_episode(env: SoloBattlesnake, q, epsilon, rng, seed, alpha, gamma):
                 terminated=terminated, truncated=truncated, reason=info['reason']).
     episode_reward is the undiscounted sum for reporting; gamma is used in updates.
     """
-    env.reset(seed = seed)
+    # since we don't need anything other than the observation i have just omitted them
+    obs, _ = env.reset(seed = seed)
     steps = []
     rewards = []
-    state = encode_state(env.reset(seed = seed)[0]) #Encode states
+    state = encode_state(obs) #Encode states
     while 1:
         action = choose_action(q[state],epsilon,rng) #Select actions
         steppah = env.step(action)
-        steps.append(steppah)
+        
+        obs = steppah[0]
         reward = steppah[1]
-        rewards.append(reward)
         terminated = steppah[2]
         truncated = steppah[3]
         info = steppah[4]
+        
+        steps.append(steppah)
+        rewards.append(reward)
+        
+        #if we get terminated use same state else we need a new one
+        next_state = state if terminated else encode_state(obs)
     
         update_q(q, state, action, reward, encode_state(steppah[0]), terminated, alpha, gamma) #Update Q
         if terminated or truncated:
             return {
                 "reward": sum(rewards),
-                "steps": len(rewards),
+                "steps": len(steps),
                 "apples": info['apples'],
                 "terminated": terminated,
                 "truncated": truncated,
                 "reason": info['reason']
             }
+        # update state
+        state = next_state
     # # TODO: connect the interaction cycle; update after EVERY transition.
 
 
