@@ -1,0 +1,6 @@
+numpy>=1.24,<3
+hisss==1.3.0
+matplotlib>=3.7
+pillow>=10.1
+gymnasium==1.2.3
+stable-baselines3==2.7.1
