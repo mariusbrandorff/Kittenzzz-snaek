@@ -1,6 +1,11 @@
 from math import sqrt
+import random
 from typing import Dict, List
 from enum import Enum
+from PIL import Image, ImageDraw
+
+from hisss import BattleSnakeConfig
+from hisss.game.state import BattleSnakeState
 
 class Vector:
     def __init__(self, x: int, y: int) -> None:
@@ -96,3 +101,54 @@ class GameState:
         self.turn = state["turn"]
         self.you = SnakeState(state["you"])
         self.board = BoardState(self.you, state["board"])
+        
+    def draw(self, width: int, height: int):
+        image = Image.new("RGB", (width, height), "#BDB")
+        draw = ImageDraw.Draw(image)
+        
+        TILE_WIDTH, TILE_HEIGHT = int(width/self.board.width), int(height/self.board.height)
+
+        def tile_coords(x: int, y: int) -> tuple[int, int]:
+            return (
+                x*TILE_WIDTH,
+                y*TILE_HEIGHT
+            )
+
+        for x in range(self.board.width):
+            for y in range(self.board.height-1, -1, -1):
+                _x, _y = tile_coords(x, y)
+                draw.rectangle(
+                    (
+                        _x, # Start x 0
+                        _y, # Start y 0
+                        TILE_WIDTH + _x, # End x TILE_WIDTH
+                        TILE_HEIGHT + _y # End y TILE_HEIGHT
+                    ),
+                    outline="#716B6B", width=1)
+        
+        for food in self.board.food:
+            x, y = tile_coords(food.x, food.y)
+            draw.circle((x + TILE_WIDTH/2, y + TILE_HEIGHT/2), min(TILE_WIDTH / 3, TILE_HEIGHT / 3), "#FBB")
+
+        for snake in self.board.snakes:
+            color = "#FFF"
+            if snake.id == self.id:
+                color = "#FAD"
+            else:
+                random.seed(snake.id)
+                color = random.randint(0, 16581375) # 255^3
+            
+            for segment in snake.body:
+                x, y = tile_coords(segment.x, segment.y)
+                draw.rectangle(
+                    (
+                        x,
+                        y,
+                        TILE_WIDTH + x,
+                        TILE_HEIGHT + y
+                    ),
+                    fill=color, width=0
+                )
+
+        
+        return image.transpose(Image.Transpose.FLIP_TOP_BOTTOM)
