@@ -14,7 +14,7 @@ def main_agent(ns: Namespace) -> IAgent | None:
         print("Run agent")
         return Agent()
     else:
-        print("Train agent")
+        Agent().train(ns.steps)
         return None # Just trained it
 
 def main_rule(ns: Namespace) -> IAgent:
