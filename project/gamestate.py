@@ -97,6 +97,8 @@ class GameState:
     you: SnakeState
 
     def __init__(self, state: Dict) -> None:
+        self.raw_state = state 
+        
         self.id = state["game"]["id"]
         self.turn = state["turn"]
         self.you = SnakeState(state["you"])
